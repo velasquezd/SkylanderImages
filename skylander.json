@@ -6,4 +6,11 @@
   "specialty":"Core Skylander",
   "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Spyro.png"
 }
+  {
+  "name": "Bash",
+  "element":"Earth",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Bash.png"
+  }
 ]
