@@ -12,5 +12,65 @@
   "game":"Spyro's Adventure",
   "specialty":"Core Skylander",
   "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Bash.png"
+},
+{
+  "name": "Boomer",
+  "element":"Tech",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Boomer.png"
+},
+{
+  "name": "Camo",
+  "element":"Life",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Camo.png"
+},
+{
+  "name": "Chop Chop",
+  "element":"Undead",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/ChopChop.png"
+},
+{
+  "name": "Cynder",
+  "element":"Undead",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Cynder.png"
+},
+{
+  "name": "Dino-Rang",
+  "element":"Earth",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/DinoRang.png"
+},
+{
+  "name": "Double Trouble",
+  "element":"Magic",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/DoubleTrouble.png"
+},
+{
+  "name": "Drill Sergeant",
+  "element":"Tech",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/DrillSergeant.png"
+},
+{
+  "name": "Drobot",
+  "element":"Tech",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Drobot.png"
 }
+  
+
+
 ]
+
