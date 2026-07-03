@@ -68,7 +68,238 @@
   "game":"Spyro's Adventure",
   "specialty":"Core Skylander",
   "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Drobot.png"
-}
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Eruptor.png"
+},
+{
+  "name": "Flameslinger",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Flameslinger.png"
+},
+{
+  "name": "Ghost Roaster",
+  "element":"Undead",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/GhostRoaster.png"
+},
+{
+  "name": "Gill Grunt",
+  "element":"Water",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/GillGrunt.png"
+},
+{
+  "name": "Hex",
+  "element":"Undead",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Hex.png"
+},
+{
+  "name": "Ignitor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Ignitor.png"
+},
+{
+  "name": "Lightning Rod",
+  "element":"Air",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/LightningRod.png"
+},
+{
+  "name": "Prism Break",
+  "element":"Earth",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/PrismBreak.png"
+},
+{
+  "name": "Slam Bam",
+  "element":"Water",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/SlamBam.png"
+},
+{
+  "name": "Sonic Boom",
+  "element":"Air",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/SonicBoom.png"
+},
+{
+  "name": "Stealth Elf",
+  "element":"Life",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/StealthElf.png"
+},
+{
+  "name": "Stump Smash",
+  "element":"Life",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/StumpSmash.png"
+},
+{
+  "name": "Sunburn",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Sunburn.png"
+},
+{
+  "name": "Terrafin",
+  "element":"Earth",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Terrafin.png"
+},
+{
+  "name": "Trigger Happy",
+  "element":"Tech",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/TriggerHappy.png"
+},
+{
+  "name": "Voodood",
+  "element":"Magic",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Voodood.png"
+},
+{
+  "name": "Warnado",
+  "element":"Air",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Warnado.png"
+},
+{
+  "name": "Wham-Shell",
+  "element":"Water",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/WhamShell.png"
+},
+{
+  "name": "Whirlwind",
+  "element":"Air",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Whirlwind2.png"
+},
+{
+  "name": "Wrecking Ball",
+  "element":"Magic",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/WreckingBall.png"
+},
+{
+  "name": "Zap",
+  "element":"Water",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Zap.png"
+},
+{
+  "name": "Zook",
+  "element":"Life",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":"https://raw.githubusercontent.com/velasquezd/SkylanderImages/refs/heads/main/Spyro's%20Adventure/Skylanders%20Spyro's%20Adventure%20Characters/Zook.png"
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
+{
+  "name": "Eruptor",
+  "element":"Fire",
+  "game":"Spyro's Adventure",
+  "specialty":"Core Skylander",
+  "image":""
+},
   
 
 
